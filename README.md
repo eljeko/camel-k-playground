@@ -5,6 +5,6 @@ Before you go you need to installa the Camel K operator on your OpenShift cluste
 
 # Examples
 
-## [Rest API example](camel-k-rest)
+## [Rest API example](examples/camel-k-rest/org/apache/camel/example)
 
 A simple camel route that exposes ReST services
